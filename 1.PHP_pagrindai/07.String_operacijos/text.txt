@@ -1,0 +1,2 @@
+Failas sukurtas pagal PHP kurso medzaga.
+Skirtas tik atidarymui
