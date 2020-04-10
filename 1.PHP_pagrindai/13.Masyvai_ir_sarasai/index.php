@@ -2,6 +2,8 @@
 2. Surasti ir isvesti suma visu masyvo skaiciu su for ciklu
 3. Surasti ir isvesti suma visu masyvo skaiciu su while ciklu -->
 <?php
+
+    //masyvas kurio visi elementai turi key didejancia numeracija vadinami sarasais arba index tipo masyvu
     $array = [15, 7, 87, 95, 25, 36, 64, 2, 10, 88];
     echo '<br>';
     echo "Duotas masyvas: \$array = [15, 7, 87, 95, 25, 36, 64, 2, 10, 88];";
@@ -13,6 +15,7 @@
         $sum +=$array[$i];     
     }
     echo ($sum);
+
     echo '<br>';
     echo 'Masyvo elementu suma paskaiciuota su while ciklu: ';
     echo '<br>';
